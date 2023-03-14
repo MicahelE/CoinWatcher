@@ -1,2 +1,2 @@
 '' Realtime CryptoCurrency Tracker implemented with WebSocket ''
-For real-time data around the prices of certain cryptocurrencies, we would be using the Binance WebSocket API, all this will be implemented on a dasboard where the desired pairs can be watched.
+For real-time data around the prices of certain cryptocurrencies, we would be using the Binance WebSocket API, all these will be implemented on a dasboard where the desired pairs can be watched.
